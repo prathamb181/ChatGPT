@@ -11,5 +11,8 @@
 ![Screenshot_20230717_011017](https://github.com/prathamb181/ChatGPT/assets/131811894/d54a4c8b-2c01-483e-a292-a64df1273b47)
 ![Screenshot_20230717_011052](https://github.com/prathamb181/ChatGPT/assets/131811894/ae6fd76a-9376-4960-9173-2951d497de3e)
 ![Screenshot_20230717_011139](https://github.com/prathamb181/ChatGPT/assets/131811894/0f8cf86b-e40b-4fbe-8c35-c0a724efc4f1)
+![Screenshot_20230717_011328](https://github.com/prathamb181/ChatGPT/assets/131811894/a089abf8-f1d4-41d7-b424-4361f44f04e6)
+![Screenshot_20230717_011335](https://github.com/prathamb181/ChatGPT/assets/131811894/157b491a-ede2-4927-a292-6cdda0a735f9)
+
 
 
